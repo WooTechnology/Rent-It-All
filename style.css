@@ -45,8 +45,8 @@ a {
  
 button {
     border-radius: 20px;
-    border: 1px solid #3399ff;
-    background-color: #3399ff;
+    border: 1px solid #ffa64d;
+    background-color: #ffa64d;
     color: #FFFFFF;
     font-size: 12px;
     font-weight: bold;
@@ -159,9 +159,9 @@ input {
 }
  
 .overlay {
-    background: #3399ff;
-    background: -webkit-linear-gradient(to right, #0066ff, #3399ff);
-    background: linear-gradient(to right, #0066ff, #3399ff);
+    background: #ffa64d;
+    background: -webkit-linear-gradient(to right, #ff8c1a, #ffa64d);
+    background: linear-gradient(to right, #ff8c1a, #ffa64d);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0 0;
@@ -212,10 +212,10 @@ input {
  
 .social-container {
     margin: 20px 0;
-}
+}      
 
 .social-container a:hover{
-    background-color: #3399ff;
+    background-color: #ffa64d;
 }
  
 .social-container a {
